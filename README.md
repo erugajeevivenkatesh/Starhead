@@ -1,2 +1,2 @@
 # Starhead
-Later I will add 
+Updates searchable spinner
